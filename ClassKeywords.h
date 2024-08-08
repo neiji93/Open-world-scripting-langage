@@ -1,10 +1,5 @@
 
 
-/*
-Pour retrouver la raison, je vais avoir des principes : le rôle (contre shameem), l honneur
-et la famille !
-
-*/
 
 /*
 In this langage, we highly recommand you to prevent using base classes
