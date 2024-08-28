@@ -6,3 +6,5 @@ https://github.com/MilosM348/Open-world-scripting-langage/tree/dev1
 you can use log(x)'2 or log(sqrt x) and drop the sort of energy formula after the first steps. this is my recent researches in economy.then, this program seems tiny after all.
 guys, it can be used for football soccer simulation. i will be happy to share performances at free kick although im not old nor young. coming soon.
 https://youtube.com/shorts/xvOVZf9G3hc?si=EyOTDTQlcSF6Sf7P
+
+https://youtu.be/6InuRH6pQk4?feature=shared
