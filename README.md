@@ -8,3 +8,6 @@ guys, it can be used for football soccer simulation. i will be happy to share pe
 https://youtube.com/shorts/xvOVZf9G3hc?si=EyOTDTQlcSF6Sf7P
 
 https://youtu.be/6InuRH6pQk4?feature=shared
+
+Hi guys ! My stuff may be used to set physics engine for video games too. For example if you can push forward the last terms of runge kutta approximate behaviour with it.
+It must be more sophisticated ways.
