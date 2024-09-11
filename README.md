@@ -12,3 +12,4 @@ https://youtu.be/6InuRH6pQk4?feature=shared
 
 Hi guys ! My stuff may be used to set physics engine for video games too. For example if you can push forward the last terms of runge kutta approximate behaviour with it.
 It must be more sophisticated ways.
+I think it can be used to extend the C++ langage as it can be used to set non friend and non class member functions. You can use anonymous namespace too to prevent using this way. I'm not sure but it can be a way because we used equations and functions here. If you succeed to do that, you won't have to use a modified c compileR.
